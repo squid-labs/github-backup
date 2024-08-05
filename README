@@ -1,0 +1,2 @@
+to run as exe
+pyinstaller --onefile main.py
